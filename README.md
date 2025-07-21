@@ -18,11 +18,11 @@ Applied filters, slicers, and sorting to allow interactive data viewing.
 Designed a clean and formatted report for easy stakeholder consumption.
 Built summary KPIs to highlight total orders, top-performing states, and trends.
 
-## 3) Dashboard: 
+## 4) Dashboard: 
 <a
 href="https://github.com/PratikMJadhav/ManaliStore_Statewise_Order_Analysis-/blob/main/ManaliStore_Statewise_Order_Analysis.png" >Dashboard</a
 
-## 4) Insights:
+## 5) Insights:
 
 🔹 1. Maharashtra leads in total sales
 Maharashtra recorded the highest sales with approximately ₹4.36M, followed by Karnataka (₹3.85M) and Uttar Pradesh (₹2.81M).
@@ -120,9 +120,10 @@ Introduce a "Refer & Earn" scheme to get more organic traffic.
 🔹 10. Add Limited-Time Deals
 
 Create urgency by offering time-limited discounts, e.g.:
-> “Buy in the next 2 hours and get 15% off on ethnic wear.”
+ “Buy in the next 2 hours and get 15% off on ethnic wear.”
 
 🔹11. RFM access
+
 If you had access to RFM (Recency, Frequency, Monetary) analysis, that would help you:
 Identify top buyers (for exclusive offers)
 Re-engage inactive customers with win-back campaigns
