@@ -2,10 +2,14 @@
 The Manali Store order analysis project is developed using Microsoft Excel. It provides a detailed state-wise order analysis, highlighting key performance indicators (KPIs) such as total orders, top-performing state, lowest-performing state, and average order count.
 
 
-## 1) Project Objective :
+## 1) Project Objective:
   Manali  store wants to create an annual sales report for 2022. So that, they can understand their customers and grow more sales in 2023.
+  
+## 2) Dataset:
+<a
+href="https://github.com/PratikMJadhav/ManaliStore_Statewise_Order_Analysis-/blob/main/Raw_data_Of_Manali_Store.xlsx ">Dataset</a
 
-## 3) Analysis Process :
+## 3) Analysis Process:
 
 Cleaned and structured raw data for analysis.
 Created dedicated sheets for charts and KPIs to organize insights.
@@ -15,8 +19,10 @@ Designed a clean and formatted report for easy stakeholder consumption.
 Built summary KPIs to highlight total orders, top-performing states, and trends.
 
 ## 3) Dashboard: 
+<a
+href="https://github.com/PratikMJadhav/ManaliStore_Statewise_Order_Analysis-/blob/main/ManaliStore_Statewise_Order_Analysis.png" >Dashboard</a
 
-## 4)  Insights :
+## 4) Insights:
 
 🔹 1. Maharashtra leads in total sales
 Maharashtra recorded the highest sales with approximately ₹4.36M, followed by Karnataka (₹3.85M) and Uttar Pradesh (₹2.81M).
@@ -53,7 +59,7 @@ Besides Maharashtra, states like Tamil Nadu, Telangana, and Karnataka show stron
 States like Haryana (₹1.08M) and West Bengal (₹1.37M) lag behind others.
 These regions could be targeted with regional campaigns or promotions.
 
- 10 Data-Driven Strategies to Increase Sales
+ ## Strategies to Increase Sales:
 
 🔹 1. Double Down on High-Performing Channels (Amazon & Flipkart)
 
