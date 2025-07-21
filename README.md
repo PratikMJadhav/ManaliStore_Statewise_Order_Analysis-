@@ -59,7 +59,7 @@ Besides Maharashtra, states like Tamil Nadu, Telangana, and Karnataka show stron
 States like Haryana (₹1.08M) and West Bengal (₹1.37M) lag behind others.
 These regions could be targeted with regional campaigns or promotions.
 
- ## Strategies to Increase Sales:
+ ## 6) Strategies to Increase Sales:
 
 🔹 1. Double Down on High-Performing Channels (Amazon & Flipkart)
 
